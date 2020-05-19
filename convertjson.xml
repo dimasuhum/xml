@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <version>1.2</version>
+  <adFullScreenSettings>
+    <amountStepsShowAD>3</amountStepsShowAD>
+    <timeShowAd>30000</timeShowAd>
+  </adFullScreenSettings>
+  <urgentUpdate>true</urgentUpdate>
+  <whatNew>
+    <title_new>Час ТВ онлайн</title_new>
+    <description_new>Как обновить?</description_new>
+    <items_new>Попробуйте обновить</items_new>
+    <items_new>Если возникли проблемы с установкой, обновите через ссылку на сайте chas.tv</items_new>
+  </whatNew>
+  <timeBuffering>6</timeBuffering>
+  <link_app>http://glazandroid.com/andr/chas-online.apk</link_app>
+  <channels>
+    <id>659</id>
+    <name>ТНТ</name>
+    <logo>https://www.glaz.tv/images/500/tnt.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/tntb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+    <stream_array>https://strm.yandex.ru/dvr/tnt/tnt0_169_720p.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>519</id>
+    <name>НТВ</name>
+    <logo>https://www.glaz.tv/images/500/ntv.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/ntv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/ntvb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+    <stream_array>http://strm.yandex.ru/kal/ntv_cv/ntv_cv0_169_480p.json/index-v1-a1.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>534</id>
+    <name>Первый канал</name>
+    <logo>https://www.glaz.tv/images/500/pervyi.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/pervyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array/>
+  </channels>
+  <channels>
+    <id>556</id>
+    <name>Рен-ТВ</name>
+    <logo>https://www.glaz.tv/images/500/rentv.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/rentv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>https://strm.yandex.ru/kal/rentv_ad/rentv_ad0_169_270p.json/index-v1-a1.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>578</id>
+    <name>Россия-24</name>
+    <logo>https://www.glaz.tv/images/500/rossiya-24.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/rossiya24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/rossiya24b.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+    <stream_array>https://strm.yandex.ru/dvr/russia24/russia240_169_360p.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>576</id>
+    <name>Россия-1</name>
+    <logo>https://www.glaz.tv/images/500/rossiya-1.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/rossiya1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/rossiya1b.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+  </channels>
+  <channels>
+    <id>577</id>
+    <name>Матч-ТВ</name>
+    <logo>https://www.glaz.tv/images/500/match-tv.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/rossiya2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>https://strm.yandex.ru/dvr/match/match0_169_720p.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>764</id>
+    <name>ТНТ-Comedy</name>
+    <logo>https://www.glaz.tv/images/500/tnt-comedy.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/comedytv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>601</id>
+    <name>СТС</name>
+    <logo>https://www.glaz.tv/images/500/sts.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/sts.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/stsb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+  </channels>
+  <channels>
+    <id>460</id>
+    <name>Звезда</name>
+    <logo>https://www.glaz.tv/images/500/zvezda.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/zvezda.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/zvezdab.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+  </channels>
+  <channels>
+    <id>548</id>
+    <name>Пятый канал</name>
+    <logo>https://www.glaz.tv/images/500/pyatyi.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/pyatyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/pyatyib.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+    <stream_array>https://strm.yandex.ru/kal/ch5_cv/ch5_cv0_169_480p.json/index-v1-a1.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>454</id>
+    <name>Че (Перец)</name>
+    <logo>https://www.glaz.tv/images/500/che.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/perec.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/perecb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+  </channels>
+  <channels>
+    <id>677</id>
+    <name>ТВ-3</name>
+    <logo>https://www.glaz.tv/images/500/tv3.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/tvtri.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/tvtrib.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+    <stream_array>https://strm.yandex.ru/dvr/tv3/tv30_169_720p.m3u8</stream_array>
+  </channels>
+  <channels>
+    <id>708</id>
+    <name>ТВ-Центр</name>
+    <logo>https://www.glaz.tv/images/500/tvc.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/tvc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+    <stream_array>http://178.162.218.83:8081/chasandr/tvcb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream_array>
+  </channels>
+  <channels>
+    <id>681</id>
+    <name>2x2</name>
+    <logo>https://www.glaz.tv/images/500/2x2.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/dva.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>679</id>
+    <name>Интер</name>
+    <logo>https://www.glaz.tv/images/500/inter.png</logo>
+    <stream>http://178.162.218.83:8081/chasandr/inter.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>672</id>
+    <name>Домашний</name>
+    <logo>https://www.glaz.tv/images/500/domashnii.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/domashniy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>481</id>
+    <name>Карусель</name>
+    <logo>https://www.glaz.tv/images/500/karusel.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/karusel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>748</id>
+    <name>НСТ</name>
+    <logo>https://www.glaz.tv/images/500/nst.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/nst.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>680</id>
+    <name>Россия Культура</name>
+    <logo>https://www.glaz.tv/images/500/rossiya-k.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/rossiyak.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <name>Russia Today</name>
+    <logo>https://www.glaz.tv/images/500/rt.png</logo>
+    <stream>http://rtmp.api.rt.com/hls/rtdru.m3u8</stream>
+  </channels>
+  <channels>
+    <id>766</id>
+    <name>Детский мир</name>
+    <logo>https://www.glaz.tv/images/500/dmir.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/dmir.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>715</id>
+    <name>Иллюзион +</name>
+    <logo>https://www.glaz.tv/images/500/illyuzionpl.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/illyuzionpl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>727</id>
+    <name>Русский иллюзион</name>
+    <logo>https://www.glaz.tv/images/500/rusillyuzion.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/rusillyuzion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>712</id>
+    <name>Индия ТВ</name>
+    <logo>https://www.glaz.tv/images/500/indiya.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/indiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>769</id>
+    <name>Ностальгия</name>
+    <logo>https://www.glaz.tv/images/500/nostalgiya.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/nostalgiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>673</id>
+    <name>RU.TV</name>
+    <logo>https://www.glaz.tv/images/500/rutv.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/rutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>675</id>
+    <name>Европа плюс ТВ</name>
+    <logo>https://www.glaz.tv/images/500/europe.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/europe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>508</id>
+    <name>Муз-ТВ</name>
+    <logo>https://www.glaz.tv/images/500/muztv.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/muztv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>667</id>
+    <name>Russian Music Box</name>
+    <logo>https://www.glaz.tv/images/500/musicbox.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/musicbox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>740</id>
+    <name>Музыка Первого</name>
+    <logo>https://www.glaz.tv/images/500/muzika.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/muzika.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>433</id>
+    <name>Bridge TV</name>
+    <logo>https://www.glaz.tv/images/500/bridge.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/bridge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>724</id>
+    <name>Ля-Минор ТВ</name>
+    <logo>https://www.glaz.tv/images/500/lyaminor.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/lyaminor.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>716</id>
+    <name>24 Док</name>
+    <logo>https://www.glaz.tv/images/500/24doc.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/24doc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>682</id>
+    <name>Моя Планета</name>
+    <logo>https://www.glaz.tv/images/500/mp.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/moyaplaneta.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>582</id>
+    <name>РТР Планета</name>
+    <logo>https://www.glaz.tv/images/500/rtrpl.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/rtrpl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>553</id>
+    <name>РБК</name>
+    <logo>https://www.glaz.tv/images/500/rbc.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/rbk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>417</id>
+    <name>Пятый канал (Украина)</name>
+    <logo>https://www.glaz.tv/images/500/pyatua.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/ua5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+  <channels>
+    <id>746</id>
+    <name>Совершенно секретно</name>
+    <logo>https://www.glaz.tv/images/500/sovsek.png</logo>
+    <stream>http://178.162.205.85:8081/chasandr/sovsek.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDExOjUzOjIyIEFNJmhhc2hfdmFsdWU9M3RBcWtSanFQNFhYWGJxMnVPR2pzUT09JnZhbGlkbWludXRlcz0yMDAw</stream>
+  </channels>
+</root>
